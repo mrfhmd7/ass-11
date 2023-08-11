@@ -1,0 +1,143 @@
+[
+    {
+      "category": "Sports Car",
+      "name": "Racer 10",
+      "picture": "https://images.pexels.com/photos/92615/pexels-photo-92615.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 100,
+      "rating": 4.6
+    },
+    {
+      "category": "Sports Car",
+      "name": "Old School",
+      "picture": "https://images.pexels.com/photos/14609423/pexels-photo-14609423.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 50.99,
+      "rating": 4
+    },
+    {
+      "category": "Sports Car",
+      "name": "Brembo",
+      "picture": "https://images.pexels.com/photos/35964/ferrari-red-auto-sports-car.jpg?auto=compress&cs=tinysrgb&w=600",
+      "price": 40,
+      "rating": 3.5
+    },
+    {
+      "category": "Sports Car",
+      "name": "Bond",
+      "picture": "https://media.istockphoto.com/id/1189575449/photo/side-view-of-silver-classic-model-car-with-white-background.jpg?b=1&s=612x612&w=0&k=20&c=ycg9D4gJ7hNu9PRPiEmse_UyyOoeTVOXwH_cwfM1GvI=",
+      "price": 25.5,
+      "rating": 4.9
+    },
+    {
+      "category": "Truck",
+      "name": "Wall-E",
+      "picture": "https://images.pexels.com/photos/981588/pexels-photo-981588.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 34.99,
+      "rating": 4
+    },
+    {
+      "category": "Truck",
+      "name": "Hill Climber",
+      "picture": "https://images.pexels.com/photos/1648349/pexels-photo-1648349.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 35.99,
+      "rating": 4.5
+    },
+    {
+      "category": "Truck",
+      "name": "Baby Truck",
+      "picture": "https://images.pexels.com/photos/978711/pexels-photo-978711.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 25,
+      "rating": 2
+    },
+    {
+      "category": "Truck",
+      "name": "Garbage Truck",
+      "picture": "https://images.pexels.com/photos/4138544/pexels-photo-4138544.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 34.99,
+      "rating": 3
+    },
+    {
+      "category": "Regular Car",
+      "name": "Little Guy",
+      "picture": "https://images.pexels.com/photos/35967/mini-cooper-auto-model-vehicle.jpg?auto=compress&cs=tinysrgb&w=600",
+      "price": 19.99,
+      "rating": 3
+    },
+    {
+      "category": "Regular Car",
+      "name": "Bumble Bee",
+      "picture": "https://images.pexels.com/photos/35619/capri-ford-oldtimer-automotive.jpg?auto=compress&cs=tinysrgb&w=600",
+      "price": 50,
+      "rating": 5
+    },
+    {
+      "category": "Regular Car",
+      "name": "Travel Car",
+      "picture": "https://images.pexels.com/photos/386009/pexels-photo-386009.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 15.99,
+      "rating": 3.9
+    },
+    {
+      "category": "Regular Car",
+      "name": "Camping Car",
+      "picture": "https://images.pexels.com/photos/1102360/pexels-photo-1102360.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 199,
+      "rating": 4.5
+    },
+    {
+      "category": "Regular Car",
+      "name": "Vintage Car",
+      "picture": "https://images.pexels.com/photos/1522184/pexels-photo-1522184.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 40,
+      "rating": 4
+    },
+    {
+      "category": "Fire Truck",
+      "name": "Mini Fire Truck",
+      "picture": "https://media.istockphoto.com/id/1341284975/photo/toy-fire-truck.jpg?b=1&s=612x612&w=0&k=20&c=1oPZnf5kc914DXFnKKKYAWns2vvhk6Voo-wi6YOygCg=",
+      "price": 149,
+      "rating": 5
+    },
+    {
+      "category": "Fire Truck",
+      "name": "Rescue Truck",
+      "picture": "https://media.istockphoto.com/id/1289176883/photo/toy-typewriter-on-beige-background-red-fire-truck-made-of-plastic-for-the-toy-store-a-gift.jpg?b=1&s=612x612&w=0&k=20&c=r7juvqaYnbKmaruMUvxwjpLTSrd9dBxSu-hviqYJIEM=",
+      "price": 14.99,
+      "rating": 4.5
+    },
+    {
+      "category": "Fire Truck",
+      "name": "Mini Truck",
+      "picture": "https://media.istockphoto.com/id/1293879146/photo/red-fire-engine-on-yellow-background.jpg?b=1&s=612x612&w=0&k=20&c=j7JWvwIZg2VOt8PhdJ5YC-0ygTYhjPHkER7q1KTFu0Y=",
+      "price": 10,
+      "rating": 2.5
+    },
+    {
+      "category": "Police Car",
+      "name": "Mini Police Car",
+      "picture": "https://media.istockphoto.com/id/1126460118/photo/metal-toy-car-police.jpg?b=1&s=612x612&w=0&k=20&c=VUODCGJAFYgI697CrXc3uIJatCgPQ1fWpuTtPPVokYw=",
+      "price": 5,
+      "rating": 2
+    },
+    {
+      "category": "Police Car",
+      "name": "Polizei",
+      "picture": "https://images.pexels.com/photos/5472259/pexels-photo-5472259.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 10,
+      "rating": 1
+    },
+    {
+      "category": "Police Car",
+      "name": "Lego Police",
+      "picture": "https://images.pexels.com/photos/4887154/pexels-photo-4887154.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 10.99,
+      "rating": 4
+    },
+    {
+      "category": "Police Car",
+      "name": "Baby Police",
+      "picture": "https://media.istockphoto.com/id/665498514/photo/childrens-hands.jpg?b=1&s=612x612&w=0&k=20&c=uPxV3Bkqe41vq8YQQi4IDc9QWVZM65nprmfqC32QzEI=",
+      "price": 9,
+      "rating": 1.5
+    }
+  ]
+  
